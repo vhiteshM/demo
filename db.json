@@ -1,11 +1,12 @@
 {
   "search": 
     [
-      "xyz",
-      "abc",
-      "def",
-      "ghi",
-      "pqr"
+      {"search":"xyz"},
+      {"search":"abc"},
+      {"search":"def"},
+      {"search":"xyz"},
+      {"search":"ghi"},
+      {"search":"pqr"}
     ]
   
 }
