@@ -1,9 +1,11 @@
 {
   "search": 
     [
-      {
-        "name": "Xyz"
-      }
+      "xyz",
+      "abc",
+      "def",
+      "ghi",
+      "pqr"
     ]
   
 }
